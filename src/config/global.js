@@ -1,8 +1,9 @@
 export default {
   global: {
-    Name: 'Nombre del recurso educativo',
-    Description: 'Descripción del RED',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.svg'),
+    Name: 'Plan de mercadeo',
+    Description:
+      'Este componente formativo aborda fundamentos teóricos y prácticos de la formulación del plan de mercadeo estratégico. Explora los objetivos organizacionales, metodologías de planeación, programación de recursos y criterios de optimización para estructurar actividades basadas en el mercado potencial. Permite al aprendiz aplicar herramientas estratégicas y de mejora continua para diseñar planes de mercadeo coherentes y eficientes.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-principal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
