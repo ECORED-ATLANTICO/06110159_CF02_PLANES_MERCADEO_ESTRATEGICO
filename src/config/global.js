@@ -297,8 +297,27 @@ export default {
   ],
   referencias: [
     {
-      referencia: '',
-      link: '',
+      referencia:
+        'Bermeo Muñoz, E. A., & Rincón Guio, C. (2018). <em>Manual de planeación estratégica de marketing</em>. Editorial Universitaria.',
+      link:
+        'https://uninavarra.edu.co/wp-content/uploads/2018/06/Libro_Marketing.pdf',
+    },
+    {
+      referencia:
+        'Mercatelv. (2025). <em>Objetivos de mercadeo: guía completa y ejemplos prácticos</em>. Mercatelv Blog.',
+      link: 'https://blog.mercately.com/marketing/objetivos-de-mercadeo/',
+    },
+    {
+      referencia:
+        'Lull Noguera, J. J., & Galdón Salvador, J. L. (s.f.). <em>Análisis PESTEL: analizando el entorno para la toma de decisiones</em>. Universitat Politècnica de València.',
+      link:
+        'https://riunet.upv.es/server/api/core/bitstreams/97570a29-3092-4f94-ae68-a88103d601fd/content',
+    },
+    {
+      referencia:
+        'URF. (2024). <em>Manual de indicadores para seguimiento y evaluación</em>. Unidad de Regulación Financiera.',
+      link:
+        'https://www.urf.gov.co/documents/283253/350351/20250402_DP-MO-002_V2_Manual_Indicadores.pdf',
     },
   ],
   creditos: [
