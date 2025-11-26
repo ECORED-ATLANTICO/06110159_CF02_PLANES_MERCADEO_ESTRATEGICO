@@ -5,7 +5,31 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 3
-      h1 Tema 3
+      h1 Programación de recursos
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10  
+        #t_3_1.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 3.1 Tipos
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10  
+        #t_3_2.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 3.2 Herramientas
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-10  
+        #t_3_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 3.3 Secuenciación
+        .mb-0
 
 </template>
 

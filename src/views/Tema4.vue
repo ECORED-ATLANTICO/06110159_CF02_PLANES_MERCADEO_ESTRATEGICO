@@ -5,7 +5,47 @@
     .titulo-principal.color-acento-contenido
       .titulo-principal__numero
         span 4
-      h1 Tema 4
+      h1 Criterios de optimización
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12  
+        #t_4_1.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.1 Eficiencia
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12  
+        #t_4_2.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.2 Eficacia
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12  
+        #t_4_3.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.3 Costo-beneficio
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12  
+        #t_4_4.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.4 Priorización
+        .mb-0
+
+    Separador 
+
+    .row.justify-content-center.align-items-center.mb-0
+      .col-12.col-lg-12  
+        #t_4_5.titulo-segundo.color-acento-contenido
+          .h2(data-aos="fade-right") 4.5 Indicadores
+        .mb-0
 
 
 </template>
