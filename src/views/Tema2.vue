@@ -67,7 +67,6 @@
                 figure
                   img(src='@/assets/curso/temas/tema_2/img_6.png', class="img-fluid")(data-aos="fade-up")
 
-
     Separador 
 
     .row.justify-content-center.align-items-center.mb-0
@@ -76,7 +75,7 @@
           .h2(data-aos="fade-right") 2.2 Herramientas
         .mb-0
 
-    .row.justify-content-center.align-items-center.mb-0
+    .row.justify-content-center.align-items-center.mb-5
       .col-12.col-lg-10(data-aos="zoom-in-right")
         .cita-decorada
           blockquote.cita-decorada__caja.cita-decorada__caja--fondo-3.p-4
@@ -86,7 +85,32 @@
                   img(src='@/assets/curso/temas/tema_2/img_7.png', class="cita-decorada__imagen-flotante-3")
               .col-9.col-lg-9
                 p.cita-decorada__texto.mb-2.p-3 La priorización es fundamental en la gestión estratégica porque permite concentrar los esfuerzos en las actividades que realmente generan valor. Las herramientas de priorización facilitan ordenar tareas, asignar recursos de manera eficiente y tomar decisiones más claras. Según Gutiérrez y De la Vara (2013), estas herramientas deben ser simples, visuales y ajustarse al contexto de cada organización. En marketing, su uso permite optimizar campañas, segmentar estrategias y orientar inversiones hacia las acciones con mayor impacto.
-
+    
+    .row.justify-content-center.align-items-stretch.mb-0
+      .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
+        .tarjeta.color-primario-5.p-4.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.align-items-center.mb-3
+            .col-7.col-lg-7.mb-4.mb-lg-0
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_9.png', class="img-fluid")
+          h3.text-center Matriz de Eisenhower
+          p.text-small Permite organizar tareas según su urgencia e importancia, ayudando a priorizar lo que debe hacerse de inmediato y lo que puede programarse, delegarse o eliminarse. En marketing es útil cuando el equipo tiene muchas actividades acumuladas; por ejemplo, ayuda a identificar que una campaña con fecha límite cercana se atiende hoy, una estrategia de contenido se agenda, el monitoreo de redes puede delegarse y tareas poco relevantes se descartan para no dispersar recursos.
+      .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
+        .tarjeta.color-terciario-5.p-4.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.align-items-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_10.png', class="img-fluid")
+          h3.text-center Análisis ABC
+          p.text-small Clasifica productos, clientes o actividades en tres grupos según su aporte al valor total: A (muy importantes), B (importancia media) y C (bajo impacto). En marketing permite decidir dónde invertir más presupuesto y esfuerzo: los elementos A reciben campañas fuertes, los B se optimizan con acciones moderadas y los C se mantienen con mínima inversión. Así, se enfoca el trabajo en lo que genera mayor retorno, sin necesidad de listar ejemplos separados, ya que la lógica se aplica naturalmente al priorizar cada segmento.
+      .col-12.col-lg-4.mb-4.mb-lg-0.d-flex
+        .tarjeta.color-acento-contenido-5.p-4.h-100.w-100.d-flex.flex-column
+          .row.justify-content-center.align-items-center.mb-3
+            .col-7
+              figure
+                img(src='@/assets/curso/temas/tema_2/img_11.png', class="img-fluid")
+          h3.text-center Matriz de Impacto - esfuerzo
+          p.text-small Evalúa acciones según el impacto que generan y el esfuerzo que requieren, permitiendo identificar “quick wins” que deben ejecutarse primero. En marketing ayuda a diferenciar tácticas que producen resultados rápidos con poco trabajo, de proyectos que requieren más recursos y deben planificarse. También evita que el equipo invierta tiempo en acciones que demandan mucho esfuerzo y aportan poco, manteniendo el enfoque en actividades que realmente impulsan los objetivos comerciales.
 </template>
 
 <script>

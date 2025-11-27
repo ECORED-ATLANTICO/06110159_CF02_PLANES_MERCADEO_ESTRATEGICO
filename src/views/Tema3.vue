@@ -33,31 +33,31 @@
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--1
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Humanos
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Humanos
                 .tarjeta--slider__content.text-center Incluyen el talento, las habilidades y la disponibilidad del equipo. Determinan la calidad creativa y operativa del plan de marketing. Por ejemplo, una agencia asigna diseñadores, analistas o community managers según la complejidad de cada campaña para garantizar tiempos y resultados.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--2
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Financieros
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Financieros
                 .tarjeta--slider__content.text-center Corresponden al presupuesto disponible, la estructura de costos y el retorno esperado de las acciones. Las empresas distribuyen recursos entre campañas, canales y segmentos para maximizar el impacto sin superar los límites presupuestales.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--3
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Tecnológicos
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Tecnológicos
                 .tarjeta--slider__content.text-center Comprenden herramientas digitales, software de análisis, plataformas de automatización y equipos. Facilitan ejecutar tareas como segmentación, programación de contenidos o medición de resultados de manera más eficiente y escalable.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--4
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Materiales
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Materiales
                 .tarjeta--slider__content.text-center Incluyen insumos físicos, piezas promocionales, empaques, muestras y elementos logísticos necesarios para desarrollar actividades comerciales o activaciones de marca. Se gestionan para asegurar disponibilidad y coherencia con la estrategia.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
                   .tarjeta--5
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Temporales
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Temporales
                 .tarjeta--slider__content.text-center Se refieren a tiempos, cronogramas y fechas clave. La correcta gestión asegura que campañas, lanzamientos o eventos se ejecuten en el momento adecuado para lograr mayor impacto comercial.
       .col-8.col-lg-4.mb-lg-0.mb-3(data-aos="zoom-in-right")
         figure
@@ -179,26 +179,26 @@
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--1
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Identificar dependencias
+                  .tarjeta--6
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Identificar dependencias
                 .tarjeta--slider__content.text-center Permite conocer qué actividades deben realizarse antes o después.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--2
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Detectar cuellos de botella
+                  .tarjeta--7
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Detectar cuellos de botella
                 .tarjeta--slider__content.text-center Ayuda a reconocer tareas que podrían retrasar el avance general del proyecto.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--3
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Visualizar la ruta crítica
+                  .tarjeta--8
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Visualizar la ruta crítica
                 .tarjeta--slider__content.text-center Muestra las actividades que no pueden retrasarse sin afectar la duración total del proyecto.
             .tarjeta--blanca-1.h-95
               .row.justify-content-center.align-items-center.mb-0
                 .col-12.mb-3
-                  .tarjeta--4
-                .tarjeta--slider__title.mb-3.text-center.fw-bold Asignar recursos eficientemente
+                  .tarjeta--9
+                .tarjeta--slider__title.mb-3.text-center.fw-bold.texto-resaltado.texto-resaltado--color-acento-contenido-20 Asignar recursos eficientemente
                 .tarjeta--slider__content.text-center Facilita distribuir tiempo, personal y materiales de acuerdo con la secuencia lógica.
 </template>
 
