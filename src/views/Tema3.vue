@@ -26,7 +26,7 @@
         p.mb-5 Los recursos en marketing pueden clasificarse en varias categorías, cada una con características específicas que determinan su gestión:
 
     .row.justify-content-center.align-items-center.mb-5
-      .col-12.col-lg-6(data-aos="zoom-in-right")
+      .col-12.col-lg-8(data-aos="zoom-in-right")
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95
@@ -173,7 +173,7 @@
       .col-8.col-lg-3.mb-lg-0.mb-3
         figure
           img(src='@/assets/curso/temas/tema_3/img_19.png', class="img-fluid")
-      .col-12.col-lg-7
+      .col-12.col-lg-8
         .custom-slider.p-3.p-sm-3(data-aos="zoom-in-right")
           SlyderF(columnas="col-12 col-sm-12 col-md-12 col-lg-6")
             .tarjeta--blanca-1.h-95
