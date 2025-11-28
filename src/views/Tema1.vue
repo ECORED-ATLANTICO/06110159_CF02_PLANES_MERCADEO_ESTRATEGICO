@@ -13,49 +13,52 @@
           img(src='@/assets/curso/temas/tema_1/img_1.png')
       .bloque-texto-t__texto.col-8.mb-0.p-4
         p.mb-0 En el diseño de un plan de marketing, los objetivos estratégicos representan el punto de partida esencial, son el faro que guía todas las decisiones, acciones y recursos hacia una meta común, comprender su naturaleza, tipos y relación con la misión y visión organizacional permite estructurar actividades coherentes y alineadas con el propósito empresarial.
+    
+    
+    .bg_img_1.mb-5
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
-        figure
-          img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
-      .col-12.col-lg-9(data-aos="zoom-in-right")
-        p.mb-3 Los objetivos estratégicos de mercadeo son declaraciones claras que definen lo que una organización desea alcanzar en términos de posicionamiento, participación de mercado, fidelización de clientes, entre otros aspectos clave. Según Kotler y Keller (2016), estos objetivos deben ser específicos, medibles, alcanzables, relevantes y con un tiempo definido (SMART), lo que permite su seguimiento y evaluación.
-        p.mb-0 En el contexto del marketing, los objetivos estratégicos no solo orientan las acciones comerciales, sino que también reflejan la identidad y aspiraciones de la empresa. Por ejemplo, una empresa como Nike puede establecer como objetivo estratégico “incrementar la participación en el mercado latinoamericano en un 15 % en los próximos dos años”, lo cual implica decisiones sobre distribución, comunicación y producto adaptadas a ese entorno.
+      .row.justify-content-center.align-items-center.mb-0
+        .col-8.col-lg-3.mb-lg-0.mb-3(data-aos="zoom-in-right")
+          figure
+            img(src="@/assets/curso/temas/tema_1/img_2.png", class="img-fluid")
+        .col-12.col-lg-9(data-aos="zoom-in-right")
+          p.mb-3 Los objetivos estratégicos de mercadeo son declaraciones claras que definen lo que una organización desea alcanzar en términos de posicionamiento, participación de mercado, fidelización de clientes, entre otros aspectos clave. Según Kotler y Keller (2016), estos objetivos deben ser específicos, medibles, alcanzables, relevantes y con un tiempo definido (SMART), lo que permite su seguimiento y evaluación.
+          p.mb-0 En el contexto del marketing, los objetivos estratégicos no solo orientan las acciones comerciales, sino que también reflejan la identidad y aspiraciones de la empresa. Por ejemplo, una empresa como Nike puede establecer como objetivo estratégico “incrementar la participación en el mercado latinoamericano en un 15 % en los próximos dos años”, lo cual implica decisiones sobre distribución, comunicación y producto adaptadas a ese entorno.
 
-    Separador 
+      Separador 
+    
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-10
+          #t_1_1.titulo-segundo.color-acento-contenido
+            .h2(data-aos="fade-right") 1.1 Tipos
+          .mb-0
 
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-10
-        #t_1_1.titulo-segundo.color-acento-contenido
-          .h2(data-aos="fade-right") 1.1 Tipos
-        .mb-0
-
-    .row.justify-content-center.align-items-center.mb-0
-      .col-12.col-lg-4.mb-3(data-aos="zoom-in-right")
-        p.mb-0 Los objetivos estratégicos pueden clasificarse en tres niveles jerárquicos que orientan la dirección organizacional. Cada nivel cumple un propósito específico dentro del plan de mercadeo, desde las metas globales hasta las acciones operativas. Su adecuada formulación garantiza coherencia, facilita la toma de decisiones y permite que los equipos comprendan su papel en el logro de los resultados propuestos. 
-      .col-12.col-lg-6.mb-3(data-aos="zoom-in-right")
-        .custom-slider.tarjeta--fondo__slider.p-3.mb-5.rounded-3
-          SlyderF().tarjeta.tarjeta--blanca.p-3.rounded-3
+      .row.justify-content-center.align-items-center.mb-0
+        .col-12.col-lg-4.mb-3(data-aos="zoom-in-right")
+          p.mb-0 Los objetivos estratégicos pueden clasificarse en tres niveles jerárquicos que orientan la dirección organizacional. Cada nivel cumple un propósito específico dentro del plan de mercadeo, desde las metas globales hasta las acciones operativas. Su adecuada formulación garantiza coherencia, facilita la toma de decisiones y permite que los equipos comprendan su papel en el logro de los resultados propuestos. 
+        .col-12.col-lg-6.mb-3(data-aos="zoom-in-right")
+          .custom-slider.tarjeta--fondo__slider.p-3.mb-5.rounded-3
+            SlyderF().tarjeta.tarjeta--blanca.p-3.rounded-3
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-10.mb-0
+                  h5.mb-3 Corporativos
+                  p.mb-0 Metas amplias y de largo plazo alineadas con la misión y visión, que orientan la dirección estratégica general de la organización.
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-10.mb-0
+                  h5.mb-3 Funcionales
+                  p.mb-0 Objetivos definidos para áreas específicas, como mercadeo o finanzas, que guían el desempeño y mejoramiento de cada unidad.
+              .row.justify-content-center.align-items-center
+                .col-12.col-lg-10.mb-0
+                  h5.mb-3 Operativos
+                  p.mb-0 Propósitos de corto plazo relacionados con tareas concretas y acciones puntuales que facilitan la ejecución operativa diaria.
+        .col-12.col-lg-10(data-aos="zoom-in-right")
+          .tarjeta.color-adicional-4.p-4.rounded-0
             .row.justify-content-center.align-items-center
-              .col-12.col-lg-10.mb-0
-                h5.mb-3 Corporativos
-                p.mb-0 Metas amplias y de largo plazo alineadas con la misión y visión, que orientan la dirección estratégica general de la organización.
-            .row.justify-content-center.align-items-center
-              .col-12.col-lg-10.mb-0
-                h5.mb-3 Funcionales
-                p.mb-0 Objetivos definidos para áreas específicas, como mercadeo o finanzas, que guían el desempeño y mejoramiento de cada unidad.
-            .row.justify-content-center.align-items-center
-              .col-12.col-lg-10.mb-0
-                h5.mb-3 Operativos
-                p.mb-0 Propósitos de corto plazo relacionados con tareas concretas y acciones puntuales que facilitan la ejecución operativa diaria.
-      .col-12.col-lg-10(data-aos="zoom-in-right")
-        .tarjeta.color-adicional-4.p-4.rounded-0
-          .row.justify-content-center.align-items-center
-            .col-8.col-lg-1.mb-lg-0.mb-3
-              figure
-                img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid")
-            .col-12.col-lg-11
-              p.mb-0 Cada tipo de objetivo cumple una función distinta dentro del plan de marketing, pero todos deben estar interconectados para garantizar coherencia estratégica, la claridad en su formulación permite que los equipos de trabajo comprendan su rol y contribuyan activamente a su cumplimiento.
+              .col-8.col-lg-1.mb-lg-0.mb-3
+                figure
+                  img(src='@/assets/curso/temas/tema_1/img_4.svg', class="img-fluid")
+              .col-12.col-lg-11
+                p.mb-0 Cada tipo de objetivo cumple una función distinta dentro del plan de marketing, pero todos deben estar interconectados para garantizar coherencia estratégica, la claridad en su formulación permite que los equipos de trabajo comprendan su rol y contribuyan activamente a su cumplimiento.
 
     Separador
 
