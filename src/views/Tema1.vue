@@ -39,7 +39,7 @@
         .col-12.col-lg-4.mb-3(data-aos="zoom-in-right")
           p.mb-0 Los objetivos estratégicos pueden clasificarse en tres niveles jerárquicos que orientan la dirección organizacional. Cada nivel cumple un propósito específico dentro del plan de mercadeo, desde las metas globales hasta las acciones operativas. Su adecuada formulación garantiza coherencia, facilita la toma de decisiones y permite que los equipos comprendan su papel en el logro de los resultados propuestos. 
         .col-12.col-lg-6.mb-3(data-aos="zoom-in-right")
-          .custom-slider.tarjeta--fondo__slider.p-3.mb-5.rounded-3
+          .custom-slider.tarjeta--fondo__slider.p-2.mb-5.rounded-3
             SlyderF().tarjeta.tarjeta--blanca.p-3.rounded-3
               .row.justify-content-center.align-items-center
                 .col-12.col-lg-10.mb-0
